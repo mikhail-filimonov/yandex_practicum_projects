@@ -6,7 +6,7 @@ ___
 ___
 ### Инструменты:
 
-Python (matplotlib, pandas, plotly, seaborn, scipy)
+*Python (matplotlib, pandas, plotly, seaborn, scipy), A/B-тестирование, событийная аналитика, продуктовые метрики, проверка статистических гипотез, визуализация данных*
 ___
 ### Описание проекта
 
